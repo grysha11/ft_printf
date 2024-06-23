@@ -6,11 +6,11 @@
 #    By: hzakharc <hzakharc@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/06/18 19:50:36 by hzakharc          #+#    #+#              #
-#    Updated: 2024/06/20 19:05:59 by hzakharc         ###   ########.fr        #
+#    Updated: 2024/06/23 18:27:05 by hzakharc         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-SRCS		= 	src/ft_printf.c
+SRCS		= 	ft_printf.c ft_printf_util.c
 LIBFTDIR	= 	libft/
 
 LIBFTOBJS	= 	libft.a
